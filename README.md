@@ -16,8 +16,9 @@ More details about implementation details as well as examples can be found on th
 
 If you use the resources available here in your work, please cite our paper:
 
-*Speculative Scheduling Techniques for Stochastic HPC Applications*. Ana Gainaru, Guillaume Pallez (Aupy), Hongyang Sun, Padma Raghavan [ICPP 2019] 
+*Speculative Scheduling Techniques for Stochastic HPC Applications*. Ana Gainaru, Guillaume Pallez (Aupy), Hongyang Sun, Padma Raghavan [ICPP 2019] ([Link to the technical report](https://hal.inria.fr/hal-02158598/document))
 
+```
 @inproceedings{Gainaru:2019:SSS:3337821.3337890,
  author = {Gainaru, Ana and Aupy, Guillaume Pallez and Sun, Hongyang and Raghavan, Padma},
  title = {Speculative Scheduling for Stochastic HPC Applications},
@@ -36,6 +37,7 @@ If you use the resources available here in your work, please cite our paper:
  address = {New York, NY, USA},
  keywords = {HPC runtime, Scheduling algorithm, stochastic applications},
 } 
+```
 
 ## Usage
 
